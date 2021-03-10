@@ -8,10 +8,10 @@
     <img src="Demo/Smart-Parking.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Smart Parking Project</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   Using ARDUINO and a JAVA GUI!
     <br />
     <a href="https://github.com/ElasriAyoub"><strong>Check all my projects»</strong></a>
     <br />
@@ -21,9 +21,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/ElasriAyoub/Smart-Parking-Arduino-GUI-JAVA)
-
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
