@@ -1,7 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -21,7 +18,7 @@
   </p>
 </p>
 
-
+<!--
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -49,7 +46,7 @@
   </ol>
 </details>
 
-
+-->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
