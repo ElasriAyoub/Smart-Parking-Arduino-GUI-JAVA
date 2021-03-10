@@ -29,22 +29,22 @@ Here's the solution:
 * Using the technology of Light Sensors (LDR) to track the presence each vehicle.
 * Vehicle informations are stored in a Database. 
 
-A good reflection is to answer the questions of type WWWHW.
-***What :
+A good reflection is to answer the questions of type *WWWHW*.
+***What*** :
 Application for the supervisor to supervise in Real-Time the Occupied/Vacant places
 and the state of the barriers.
 
-***Who :
+***Who*** :
 Parking supervisors of the parking.
 
-***When :
+***When*** :
 All the time.
 
-***Why :
+***Why*** :
 Make the supervising of the parking easy and fast.
 Autonomous Parking.
 
-***How :
+***How*** :
 The supervisor authenticates himself to be connected to the interface where he can see the Occupied/Vacant places and if there is a problem within the barriers.
 The vehicle will be detected then Arduino will check if there is an empty place then open the barrier or maintain it close.
 
