@@ -13,7 +13,7 @@
   <p align="center">
    Using ARDUINO and a JAVA GUI!
     <br />
-    <a href="https://github.com/ElasriAyoub"><strong>Check all my projects»</strong></a>
+    <a href="https://github.com/ElasriAyoub"><strong>Check all my projects</strong></a>
     <br />
     <br />
   </p>
@@ -21,16 +21,32 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Parking spots nowadays are fundamental. The increase of vehicles and parkingsmakes it difficult for drivers to find vacant parking spaces rapidly. For a Parking company, it’s hard to supervise all of its parking manually, wasting time, energy, and patience.
+In the 21st Century, time is gold. So wasting time is a meager problem to identify the spots of its parking in Real-Time.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Here's the solution:
+* Each parking supervisor had a Desktop Application that allows him to track the vehicles in the parking in Real Time.
+* Using the technology of Light Sensors (LDR) to track the presence each vehicle.
+* Vehicle informations are stored in a Database. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+A good reflection is to answer the questions of type WWWHW.
+***What :
+Application for the supervisor to supervise in Real-Time the Occupied/Vacant places
+and the state of the barriers.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+***Who :
+Parking supervisors of the parking.
+
+***When :
+All the time.
+
+***Why :
+Make the supervising of the parking easy and fast.
+Autonomous Parking.
+
+***How :
+The supervisor authenticates himself to be connected to the interface where he can see the Occupied/Vacant places and if there is a problem within the barriers.
+The vehicle will be detected then Arduino will check if there is an empty place then open the barrier or maintain it close.
 
 ### Built With
 
