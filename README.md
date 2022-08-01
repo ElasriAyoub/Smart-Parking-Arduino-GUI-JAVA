@@ -26,7 +26,7 @@ In the 21st Century, time is gold. So wasting time is a meager problem to identi
 
 Here's the solution:
 * Each parking supervisor had a Desktop Application that allows him to track the vehicles in the parking in Real Time.
-* Using the technology of Light Sensors (LDR) to track the presence each vehicle.
+* Using the technology of Light Sensors (LDR) to track the presence of each vehicle.
 * Vehicle informations are stored in a Database. 
 
 A good reflection is to answer the questions of type **WWWHW**.
