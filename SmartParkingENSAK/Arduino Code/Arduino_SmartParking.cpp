@@ -2,8 +2,6 @@
 EL HAOUCHI Otmane - EL ASRI AYOUB - AIT OMAR OUMAIMA */
 
 
-/*COPY TO ARDUINO IDE */
-
 #include<LiquidCrystal_I2C.h>
 #include <Servo.h>
 #include <Wire.h>
@@ -109,7 +107,7 @@ void loop() {
   lcd.setCursor(0,0);
   lcd.print("Vacante:");
   lcd.setCursor(10,0);
-  lcd.print("Occupée:");
+  lcd.print("OccupÃ©e:");
   lcd.setCursor(0,1);
   lcd.print(6-NmbrePlaces);  
    lcd.setCursor(10,1);
