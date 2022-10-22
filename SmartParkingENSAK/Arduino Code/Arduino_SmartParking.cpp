@@ -158,10 +158,13 @@ void loop() {
       delay(15);
     }
   }  
+  
   lcd.init(); 
   lcd.backlight();
+  
   lcd.setCursor(1, 0);     
   lcd.print("Welcome to our");
+  
   lcd.setCursor(1, 1);      
   lcd.print("Smart  Parking"); 
 }
